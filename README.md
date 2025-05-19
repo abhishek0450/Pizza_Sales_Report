@@ -100,4 +100,8 @@ The dashboard showcases **order trends over time** to help identify seasonal flu
 - **Excel (Advanced)** – Data preprocessing  
 
 ---
+![Image_1](https://github.com/user-attachments/assets/4cfa5af2-8106-40d6-864b-5555df4eda32)
+
+![image_2](https://github.com/user-attachments/assets/0c0c9523-f986-40c1-91c1-d9550d56abb8)
+
 
